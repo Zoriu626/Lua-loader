@@ -13,5 +13,8 @@
     "bluhgang",
     "Etterance",
     "Exscord"
-  ]
+  ],
+  "configs": {
+    "angelwings": ["angel defensive"]
+  }
 }
