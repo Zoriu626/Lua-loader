@@ -1,17 +1,17 @@
 {
   "luas": [
-    "luasense",
-    "aesthetic",
-    "enderphobia",
-    "metaset",
-    "angelwings",
-    "acidtech",
-    "ambani",
-    "amnesia",
-    "astral",
-    "hysteria",
-    "bluhgang",
-    "Etterance",
-    "Exscord"
+    "luasense.lua",
+    "aesthetic.lua",
+    "enderphobia.lua",
+    "metaset.lua",
+    "angelwings.lua",
+    "acidtech.lua",
+    "ambani.lua",
+    "amnesia.lua",
+    "astral.lua",
+    "hysteria.lua",
+    "bluhgang.lua",
+    "Etterance.lua",
+    "Exscord.lua"
   ]
 }
